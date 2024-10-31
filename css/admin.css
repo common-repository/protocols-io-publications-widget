@@ -1,0 +1,29 @@
+.protocolsio-widget-picker-block {
+    margin-bottom: 10px;
+}
+
+.protocolsio-widget-picker-block label {
+    display: inline-block;
+    min-width: 100px;
+}
+
+.protocolsio-widget-picker-block .pickr {
+    display: inline-block;
+    margin-left: 5px;
+    vertical-align: middle;
+    z-index: auto;
+}
+
+.protocolio-widget-advanced-toggle {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.protocolio-widget-advanced-toggle span {
+    margin: 0;
+    vertical-align: sub;
+    text-decoration: none;
+}
